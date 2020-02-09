@@ -2,7 +2,7 @@
   "name": "laravel-elixir",
   "version": "6.0.0-18",
   "description": "Laravel Elixir Core",
-  "main": "src/index.js",
+  "main": "dist/index.js",
   "scripts": {
     "compile": "babel --presets=es2015 -d dist/ src/",
     "test": "cd elixir-test-app && mocha --require babel-core/register --require=test/bootstrap.js",
