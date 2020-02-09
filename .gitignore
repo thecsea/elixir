@@ -2,5 +2,5 @@
 node_modules/
 npm-debug.log
 todo.txt
-dist/
+#dist/
 *.sublime-*
